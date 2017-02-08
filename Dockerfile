@@ -1,2 +1,2 @@
 FROM busybox:latest
-CMS ["echo", "Hello Git"]
+CMD ["echo", "Hello Git"]
